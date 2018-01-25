@@ -1,0 +1,1074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+
+    <laptop id="001" retailer="Apple">
+        <image>macPro.jpg</image>
+        <name>MacBookPro</name>
+        <condition>New</condition>
+        <price>1200.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+        <accessories>
+            <accessory>Mac External DVD drive</accessory>
+            <accessory>Mac Keyboard Protector</accessory>
+            <accessory>Mac Hard Shell Cover</accessory>
+            <accessory>Beats Solo3</accessory>
+            <accessory>Mac sleeve case</accessory>
+            <accessory>Mac type-C to Hdmi</accessory>
+            <accessory>Mac usb3.0 hub</accessory>
+
+        </accessories>
+    </laptop>
+
+    <laptop id="002" retailer="Apple">
+        <image>air.jpg</image>
+        <name>MacBook Air</name>
+        <condition >Refurbished</condition>
+        <price>699.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+        <accessories>
+            <accessory>Mac External DVD drive</accessory>
+            <accessory>Mac Keyboard Protector </accessory>
+            <accessory>Mac Hard Shell Cover</accessory>
+            <accessory>Samsung USB3.0</accessory>
+            <accessory>Mac sleeve case</accessory>
+            <accessory>Mac type-C to Hdmi</accessory>
+            <accessory>Mac usb3.0 hub</accessory>
+
+        </accessories>
+    </laptop>
+
+	<laptop id="004" retailer="Dell">
+        <image>dellinspiron3000.jpg</image>
+        <name>Dell Inspiron</name>
+        <condition >new</condition>
+        <price>499.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+        <accessories>
+            <accessory>Samsung USB3.0</accessory>
+            <accessory>Dell Charger</accessory>
+            <accessory>Beats Solo3</accessory>
+            <accessory>Seagate Backup</accessory>
+            <accessory>Laptop Cooler</accessory>
+            <accessory>Dell Sleeve Bag</accessory>
+            <accessory>Dell External DVD Drive</accessory>
+        </accessories>
+    </laptop>
+
+	<laptop id="003" retailer="Apple">
+        <image>macbookprotouch.jpg</image>
+        <name>MacBook Pro TOUCH</name>
+        <condition>New</condition>
+        <price>1149.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+        <accessories>
+            <accessory>Mac External DVD drive</accessory>
+            <accessory>Mac Keyboard Protector </accessory>
+            <accessory>Mac Hard Shell Cover</accessory>
+            <accessory>Mac Screen Shield</accessory>
+            <accessory>Mac sleeve case</accessory>
+            <accessory>Mac type-C to Hdmi</accessory>
+            <accessory>Mac usb3.0 hub</accessory>
+
+        </accessories>
+    </laptop>
+
+	<laptop id="005" retailer="Dell">
+        <image>dellxps13.jpg</image>
+        <name>Dell xps</name>
+        <condition>New</condition>
+        <price>1149.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+        <accessories>
+            <accessory>Dell Hard Shell Case</accessory>
+            <accessory>Dell Charger</accessory>
+            <accessory>Sony Streetstyle</accessory>
+            <accessory>WD Element</accessory>
+            <accessory>Laptop Cooler</accessory>
+            <accessory>Dell power companion</accessory>
+            <accessory>Dell Aluminium skin decal</accessory>
+        </accessories>
+
+    </laptop>
+	<laptop id="006" retailer="HP">
+        <image>hpelitebook.jpg</image>
+        <name>HP Elitebook</name>
+        <condition>New</condition>
+        <price>1100.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+        <accessories>
+            <accessory>HP 45W AC Charger</accessory>
+            <accessory>HP Hardshell case</accessory>
+            <accessory>HP Wireless mouse</accessory>
+            <accessory>Seagate Backup</accessory>
+            <accessory>Laptop Cooler</accessory>
+            <accessory>HP Sleeve Bag</accessory>
+            <accessory>HP External DVD Drive</accessory>
+        </accessories>
+
+    </laptop>
+
+	<laptop id="007" retailer="HP">
+        <image>hpEnvy.jpg</image>
+        <name>HP Envy</name>
+        <condition>New</condition>
+        <price>950.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+        <accessories>
+            <accessory>SanDisk Cruzer</accessory>
+            <accessory>HP 45W AC Charger</accessory>
+            <accessory>Beats Solo3</accessory>
+            <accessory>Seagate Backup</accessory>
+            <accessory>HP Starwars caser</accessory>
+            <accessory>Dell Sleeve Bag</accessory>
+            <accessory>Dell External DVD Drive</accessory>
+        </accessories>
+
+    </laptop>
+
+	<laptop id="008" retailer="HP">
+        <image>hpPavilon.jpg</image>
+        <name>HP Pavilion</name>
+        <condition>New</condition>
+        <price>679.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+        <accessories>
+            <accessory>Samsung USB3.0</accessory>
+            <accessory>Dell Charger</accessory>
+            <accessory>Sony Streetstyle</accessory>
+            <accessory>WD Element</accessory>
+            <accessory>Laptop Cooler</accessory>
+            <accessory>HP Wireless mouse</accessory>
+            <accessory>Dell External DVD Drive</accessory>
+        </accessories>
+
+    </laptop>
+
+	<laptop id="009" retailer="Lenovo">
+        <image>lenovothinkpad.jpg</image>
+        <name>Lenovo ThinkPad</name>
+        <condition>New</condition>
+        <price>560.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+        <accessories>
+            <accessory>Samsung USB3.0</accessory>
+            <accessory>Lenovo Keyboard cover</accessory>
+            <accessory>Beats Solo3</accessory>
+            <accessory>Seagate Backup</accessory>
+            <accessory>Laptop Cooler</accessory>
+            <accessory>Lenovo 65W AC charger</accessory>
+            <accessory>Lenovo n100</accessory>
+        </accessories>
+
+    </laptop>
+
+	<laptop id="010" retailer="Lenovo">
+        <image>lenovoyoga.jpg</image>
+        <name>Lenovo Yoga</name>
+        <condition>New</condition>
+        <price>750.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+        <accessories>
+            <accessory>SanDisk Cruzer</accessory>
+            <accessory>Lenovo Keyboard cover</accessory>
+            <accessory>HP Wireless mouse</accessory>
+            <accessory>Seagate Backup</accessory>
+            <accessory>Laptop Cooler</accessory>
+            <accessory>Lenovo 65W AC charger</accessory>
+            <accessory>Lenovo n100</accessory>
+        </accessories>
+
+    </laptop>
+
+    <phone id="SM1" retailer="Apple">
+        <image>iphone7.jpg</image>
+        <name>iPhone 7</name>
+        <condition>New</condition>
+        <price>599.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+		<accessories>
+            <accessory>Mac External DVD drive</accessory>
+            <accessory>Mac Keyboard Protector </accessory>
+            <accessory>Mac Hard Shell Cover</accessory>
+            <accessory>Beaats Solo3</accessory>
+            <accessory>Mac sleeve case</accessory>
+            <accessory>Mac type-C to Hdmi</accessory>
+            <accessory>Mac usb3.0 hub</accessory>
+
+        </accessories>
+
+
+    </phone>
+
+    <phone id="SM2" retailer="Apple">
+        <image>iphone7plus.png</image>
+        <name>iPhone 7 plus</name>
+        <condition>New</condition>
+        <price>699.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+		<accessories>
+            <accessory>Mac External DVD drive</accessory>
+            <accessory>Mac Keyboard Protector </accessory>
+            <accessory>Mac Hard Shell Cover</accessory>
+            <accessory>Beaats Solo3</accessory>
+            <accessory>Mac sleeve case</accessory>
+            <accessory>Mac type-C to Hdmi</accessory>
+            <accessory>Mac usb3.0 hub</accessory>
+
+        </accessories>
+
+
+    </phone>
+
+	<phone id="SM3" retailer="Apple">
+        <image>iphoneX.jpg</image>
+        <name>iPhone X</name>
+        <condition>new</condition>
+        <price>999.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+		<accessories>
+            <accessory>Mac External DVD drive</accessory>
+            <accessory>Mac Keyboard Protector </accessory>
+            <accessory>Mac Hard Shell Cover</accessory>
+            <accessory>Beaats Solo3</accessory>
+            <accessory>Mac sleeve case</accessory>
+            <accessory>Mac type-C to Hdmi</accessory>
+            <accessory>Mac usb3.0 hub</accessory>
+
+        </accessories>
+
+
+    </phone>
+
+	<phone id="SM4" retailer="Samsung">
+        <image>note8.jpg</image>
+        <name>Samsung Note 8</name>
+        <condition>New</condition>
+        <price>890.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+    </phone>
+
+	<phone id="SM5" retailer="Samsung">
+        <image>s8.jpg</image>
+        <name>Samsung Galaxy s8</name>
+        <condition>New</condition>
+        <price>949.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </phone>
+	<phone id="SM6" retailer="Samsung">
+        <image>s7edge.jpg</image>
+        <name>Samsung s7 Edge</name>
+        <condition>New</condition>
+        <price>800.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+    </phone>
+
+	<phone id="SM7" retailer="Sony">
+        <image>sonyz5p.jpg</image>
+        <name>Sony Xperia z5 premium</name>
+        <condition>New</condition>
+        <price>750.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+    </phone>
+
+	<phone id="SM8" retailer="Sony">
+        <image>sonyz5c.jpg</image>
+        <name>Sony Xperia z5 compact</name>
+        <condition>New</condition>
+        <price>578.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+    </phone>
+
+	<phone id="SM9" retailer="Moto">
+        <image>motoz2force.png</image>
+        <name>Moto z2 Force</name>
+        <condition>New</condition>
+        <price>760.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+    </phone>
+
+	<phone id="SM10" retailer="Moto">
+        <image>motog5.jpg</image>
+        <name>Moto g5 plus</name>
+        <condition>New</condition>
+        <price>350.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </phone>
+
+    <watch id="w01" retailer="Apple">
+          <image>appleseries1.jpg</image>
+          <name>Apple Watch Series1</name>
+          <condition>New</condition>
+          <price>150.0</price>
+		  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+      </watch>
+      <watch id="w02" retailer="Apple">
+            <image>appleseries2.jpg</image>
+            <name>Apple Watch Series2</name>
+            <condition>New</condition>
+            <price>220.0</price>
+			<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </watch>
+      <watch id="w03" retailer="Samsung">
+              <image>gearfit2.jpg</image>
+              <name>Samsung Gear Fit2</name>
+              <condition>New</condition>
+              <price>150.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </watch>
+
+      <watch id="w04" retailer="Samsung">
+              <image>gears.jpg</image>
+              <name>Samsung Gear S</name>
+              <condition>New</condition>
+              <price>180.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </watch>
+
+      <watch id="w05" retailer="Samsung">
+              <image>gears2.jpg</image>
+              <name>Samsung Gear S2</name>
+              <condition>New</condition>
+              <price>200.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </watch>
+
+      <watch id="w06" retailer="Samsung">
+              <image>gears3.jpg</image>
+              <name>Samsung Gear S3</name>
+              <condition>New</condition>
+              <price>280.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </watch>
+
+      <watch id="w07" retailer="Sony">
+              <image>sonysw2.jpg</image>
+              <name>Sony smartwatch 2</name>
+              <condition>New</condition>
+              <price>190.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </watch>
+
+      <watch id="w08" retailer="Sony">
+              <image>fossilgen2.jpg</image>
+              <name>Smartwatch 360</name>
+              <condition>New</condition>
+              <price>250.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </watch>
+
+      <watch id="w09" retailer="Moto">
+              <image>moto360.jpg</image>
+              <name>Moto 360</name>
+              <condition>New</condition>
+              <price>150.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </watch>
+
+      <watch id="w10" retailer="Moto">
+              <image>lgwatchsport.jpg</image>
+              <name>Moto watch Sport</name>
+              <condition>New</condition>
+              <price>200.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </watch>
+
+      <speaker id="sp1" retailer="JBL">
+              <image>jblcharge3.jpg</image>
+              <name>JBL Charge 3</name>
+              <condition>New</condition>
+              <price>250.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </speaker>
+
+      <speaker id="sp2" retailer="JBL">
+              <image>jblclip2.jpg</image>
+              <name>JBL Clip 2</name>
+              <condition>New</condition>
+              <price>80.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <speaker id="sp3" retailer="JBL">
+              <image>jblflip4.jpg</image>
+              <name>JBL Flip 4</name>
+              <condition>New</condition>
+              <price>200.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <speaker id="sp4" retailer="JBL">
+              <image>jblpulse2.jpg</image>
+              <name>JBL Pulse 2</name>
+              <condition>New</condition>
+              <price>150.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <speaker id="sp5" retailer="Bose">
+              <image>bosesoundlink2.jpg</image>
+              <name>Bose Soundlink 2</name>
+              <condition>New</condition>
+              <price>160.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <speaker id="sp6" retailer="Bose">
+              <image>bosesoundlinkmini.jpg</image>
+              <name>Bose Soundlink mini</name>
+              <condition>New</condition>
+              <price>180.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </speaker>
+
+      <speaker id="sp7" retailer="Bose">
+              <image>bosesoundlinkrevolve.jpg</image>
+              <name>Bose Soundlink revolve</name>
+              <condition>New</condition>
+              <price>280.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <speaker id="sp8" retailer="Philips">
+              <image>philipsBt50B.jpg</image>
+              <name>Philips BT50B</name>
+              <condition>New</condition>
+              <price>70.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <speaker id="sp9" retailer="Philips">
+              <image>philipsSb365.jpg</image>
+              <name>Philips SB365</name>
+              <condition>New</condition>
+              <price>170.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <speaker id="sp10" retailer="Logitech">
+              <image>logitech_ueroll.jpg</image>
+              <name>Logitech ueRoll</name>
+              <condition>New</condition>
+              <price>70.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </speaker>
+
+      <headphone id="h01" retailer="Bose">
+              <image>boseQuietcomfort.jpg</image>
+              <name>Bose QuietComfort</name>
+              <condition>New</condition>
+              <price>270.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </headphone>
+
+      <headphone id="h02" retailer="Bose">
+              <image>BoseSoundTrue.jpg</image>
+              <name>Bose Soundtrue</name>
+              <condition>New</condition>
+              <price>240.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <headphone id="h03" retailer="Beats">
+              <image>beatsSolo3.jpg</image>
+              <name>Beats Solo3</name>
+              <condition>New</condition>
+              <price>270.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <headphone id="h04" retailer="Beats">
+              <image>beatsStudio2.0.jpg</image>
+              <name>Beats Studio 2.0</name>
+              <condition>New</condition>
+              <price>250.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </headphone>
+
+      <headphone id="h05" retailer="Beats">
+              <image>beatsUrbeats.jpg</image>
+              <name>Beats urbeats</name>
+              <condition>New</condition>
+              <price>170.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <headphone id="h06" retailer="Sony">
+              <image>sonyMDRZX.jpg</image>
+              <name>Sony MDRZX</name>
+              <condition>New</condition>
+              <price>100.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <headphone id="h07" retailer="Sony">
+              <image>sonyStreetStyle.jpg</image>
+              <name>Sony Street style</name>
+              <condition>New</condition>
+              <price>170.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <headphone id="h08" retailer="Sony">
+              <image>sonyWh100.jpg</image>
+              <name>Sony WH100</name>
+              <condition>New</condition>
+              <price>200.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <headphone id="h09" retailer="Skullcandy">
+              <image>skullcandyGrind.jpg</image>
+              <name>Skullcandy Grind</name>
+              <condition>New</condition>
+              <price>170.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <headphone id="h10" retailer="Skullcandy">
+              <image>skullcandyUproar.jpg</image>
+              <name>Skullcandy Uproar</name>
+              <condition>New</condition>
+              <price>69.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </headphone>
+
+      <storage id="es1" retailer="Seagate">
+              <image>seagateBackup.jpg</image>
+              <name>Seagate Backup</name>
+              <condition>New</condition>
+              <price>79.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </storage>
+
+      <storage id="es2" retailer="Seagate">
+              <image>seagateExpansion.jpg</image>
+              <name>Seagate Expansion</name>
+              <condition>New</condition>
+              <price>99.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </storage>
+      <storage id="es3" retailer="WD">
+              <image>WDelement.jpg</image>
+              <name>WD element</name>
+              <condition>New</condition>
+              <price>65.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </storage>
+
+      <storage id="es4" retailer="WD">
+              <image>WDMyPassportX.jpg</image>
+              <name>Seagate myPassport X</name>
+              <condition>New</condition>
+              <price>109.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </storage>
+
+      <storage id="es5" retailer="SanDisk">
+              <image>sandiskCruzerblade.jpg</image>
+              <name>SanDisk Cruzerblade</name>
+              <condition>New</condition>
+              <price>19.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </storage>
+
+      <storage id="es6" retailer="SanDisk">
+              <image>sandiskCruzerGlide.jpg</image>
+              <name>SanDisk CruzerGlide</name>
+              <condition>New</condition>
+              <price>15.0</price>
+			  <quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+      </storage>
+
+      <storage id="es7" retailer="SanDisk">
+              <image>SandiskExtremePro.jpg</image>
+              <name>SanDisk Cruzer Extreme Pro</name>
+              <condition>New</condition>
+              <price>19.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </storage>
+
+      <storage id="es8" retailer="SanDisk">
+              <image>SandiskUltra.jpg</image>
+              <name>SanDisk Ultra</name>
+              <condition>New</condition>
+              <price>12.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </storage>
+
+      <storage id="es9" retailer="SanDisk">
+              <image>sandiskUltraFit.jpg</image>
+              <name>SanDisk Ultra fit</name>
+              <condition>New</condition>
+              <price>19.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+      </storage>
+
+      <storage id="es10" retailer="Samsung">
+              <image>samsungusb3.0.jpg</image>
+              <name>Samsung USB3.0</name>
+              <condition>New</condition>
+              <price>19.0</price>
+			  <quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+      </storage>
+	  <separator>
+              
+		<name>Additional</name>
+
+      </separator>
+
+    <accessory id="a01" retailer="Apple">
+        <image>macexternalusbslotdvd.jpg</image>
+        <name>Mac External DVD drive</name>
+        <condition>New</condition>
+        <price>40.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a02" retailer="Apple">
+        <image>mackeyboardprotector.jpg</image>
+        <name>Mac Keyboard Protector</name>
+        <condition>New</condition>
+        <price>8.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+
+    <accessory id="a03" retailer="Apple">
+        <image>machardcover.jpg</image>
+        <name>Mac Hard Shell Cover</name>
+        <condition>New</condition>
+        <price>12.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a04" retailer="Apple">
+        <image>macscreenshield.jpg</image>
+        <name>Mac Screen Shield</name>
+        <condition>New</condition>
+        <price>10.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a05" retailer="Apple">
+        <image>macsleevecase.jpg</image>
+        <name>Mac sleeve case</name>
+        <condition>New</condition>
+        <price>15.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a06" retailer="Apple">
+        <image>mactypectohdmi.jpg</image>
+        <name>Mac type-C to Hdmi</name>
+        <condition>New</condition>
+        <price>15.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a07" retailer="Apple">
+        <image>macusbchub.jpg</image>
+        <name>Mac usb3.0 hub</name>
+        <condition>New</condition>
+        <price>20.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a08" retailer="Dell">
+        <image>dellpowercompanion.jpg</image>
+        <name>Dell power companion</name>
+        <condition>New</condition>
+        <price>40.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a09" retailer="Dell">
+        <image>dellAccharger.jpg</image>
+        <name>Dell Charger</name>
+        <condition>New</condition>
+        <price>49.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+    <accessory id="a10" retailer="Samsung">
+        <image>samsungusb3.0.jpg</image>
+        <name>Samsung USB3.0</name>
+        <condition>New</condition>
+        <price>20.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a11" retailer="Beats">
+        <image>beatsSolo3.jpg</image>
+        <name>Beats Solo3</name>
+        <condition>New</condition>
+        <price>220.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+    <accessory id="a12" retailer="Seagate">
+        <image>seagateBackup.jpg</image>
+        <name>Seagate Backup</name>
+        <condition>New</condition>
+        <price>69.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+
+    <accessory id="a13" retailer="Logitech">
+        <image>laptopcooler.jpg</image>
+        <name>Laptop Cooler</name>
+        <condition>New</condition>
+        <price>20.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a14" retailer="Dell">
+        <image>dellsleevebag.jpg</image>
+        <name>Dell Sleeve Bag</name>
+        <condition>New</condition>
+        <price>20.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+    </accessory>
+
+    <accessory id="a15" retailer="Dell">
+        <image>macexternalusbslotdvd.jpg</image>
+        <name>Dell External DVD Drive</name>
+        <condition>New</condition>
+        <price>40.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+
+    <accessory id="a16" retailer="Sony">
+        <image>sonyStreetStyle.jpg</image>
+        <name>Sony Streetstyle</name>
+        <condition>New</condition>
+        <price>140.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+    <accessory id="a17" retailer="WD">
+        <image>WDelement.jpg</image>
+        <name>WD Element</name>
+        <condition>New</condition>
+        <price>109.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+
+    <accessory id="a18" retailer="Dell">
+        <image>dellaluminiumskindecal.jpg</image>
+        <name>Dell Aluminium skin decal</name>
+        <condition>New</condition>
+        <price>10.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+    <accessory id="a19" retailer="HP">
+        <image>hp45Waccharger.jpg</image>
+        <name>HP 45W AC Charger</name>
+        <condition>New</condition>
+        <price>40.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+
+    <accessory id="a20" retailer="HP">
+        <image>hphardshellcase.jpg</image>
+        <name>HP Hardshell Case</name>
+        <condition>New</condition>
+        <price>10.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+    </accessory>
+    <accessory id="a21" retailer="HP">
+        <image>hpwirelessmouse.jpg</image>
+        <name>HP Wireless mouse</name>
+        <condition>New</condition>
+        <price>12.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>no</sale>
+
+    </accessory>
+    <accessory id="a22" retailer="HP">
+        <image>dellsleevebag.jpg</image>
+        <name>HP Sleeve Bag</name>
+        <condition>New</condition>
+        <price>20.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+    <accessory id="a23" retailer="HP">
+        <image>macexternalusbslotdvd.jpg</image>
+        <name>HP External DVD drive</name>
+        <condition>New</condition>
+        <price>40.0</price>
+		<quantity>10</quantity>
+		<rebate>yes</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+
+    <accessory id="a24" retailer="Lenovo">
+        <image>lenovokeyboardcover.jpg</image>
+        <name>Lenovo Keyboard cover</name>
+        <condition>New</condition>
+        <price>10.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+    <accessory id="a25" retailer="Lenovo">
+        <image>lenovo65Waccharger.jpg</image>
+        <name>Lenovo 65W AC charger</name>
+        <condition>New</condition>
+        <price>50.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+    <accessory id="a26" retailer="Lenovo">
+        <image>lenovon100.jpg</image>
+        <name>Lenovo n100</name>
+        <condition>New</condition>
+        <price>10.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>no</sale>
+
+    </accessory>
+    <accessory id="a371" retailer="Lenovo">
+        <image>sandiskCruzerblade.jpg</image>
+        <name>SanDisk Cruzer</name>
+        <condition>New</condition>
+        <price>10.0</price>
+		<quantity>10</quantity>
+		<rebate>no</rebate>
+		<sale>yes</sale>
+
+    </accessory>
+
+    
+</ProductCatalog>

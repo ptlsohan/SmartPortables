@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>SmartPortables</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href="styles.css" rel="stylesheet" type="text/css" media="screen" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript" src="DataVisualisation.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="javascript.js"></script>
+</head>
+<body>
+
+	<div id="container">
+	<header>
+        <h1><a href="#"><span>SMART</span> PORTABLE</a></h1>
+
+    </header>
+    <div name="autofillform" style="float:right;">
+      <form method="get" action="autocomplete" >
+            <input type="text" name="searchId" value="" class="input" id="searchId" onkeyup="doCompletion()" autocomplete="off" placeholder="search here.." style="padding: 5px; font-size: 16px;" />
+            <input type="hidden" name="action" value="lookup"/>
+      </form><div id="auto-row" style="color:black;">
+            <table id="complete-table"  class="gridtable" style="position:absolute; width:205px;background-color:white;"></table>
+          </div>
+    </div><br><br>
+
+	<nav>
+        <ul>
+            <li class="start selected"><a href="Home">Home</a></li>
